@@ -12,6 +12,10 @@ function App() {
       setCounter(counter + 0)
     }else{
       setCounter(counter + 1)
+      // setCounter(prevCounter => prevCounter + 1)
+      // setCounter(prevCounter => prevCounter + 1)
+      // setCounter(prevCounter => prevCounter + 1)
+      // setCounter(prevCounter => prevCounter + 1)
     }
 
   }
