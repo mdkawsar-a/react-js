@@ -33,10 +33,10 @@ function App() {
             Pink</button>
           <button className='bg-cyan-700 text-white outline-none px-3 py-1 rounded-full text-sm text-center shadow-xl' onClick={()=> setColor("cyan")}>
             Cyan</button>
-          <button className='bg-lime-700 text-white outline-none px-3 py-1 rounded-full text-sm text-center shadow-xl' onClick={()=> setColor("lime")}>
+          <button className='bg-lime-600 text-white outline-none px-3 py-1 rounded-full text-sm text-center shadow-xl' onClick={()=> setColor("lime")}>
             Lime</button>
-          <button className='bg-sky-600 text-white outline-none px-4 py-1 rounded-full text-sm text-center shadow-xl' onClick={()=> setColor("sky")}>
-            Sky</button>
+          <button className='bg-indigo-600 text-white outline-none px-4 py-1 rounded-full text-sm text-center shadow-xl' onClick={()=> setColor("indigo")}>
+            Indigo</button>
         </div>
         </div>
       </div>
