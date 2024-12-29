@@ -27,5 +27,5 @@ export default Github
 
 export const githubFecthInfo = async () => {
     const respons = await fetch("https://api.github.com/users/mdkawsar-a")
-    return await respons.json()
+    return respons.json()
 }
